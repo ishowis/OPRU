@@ -1,0 +1,3 @@
+C:/Users/acedl/CLionProjects/OPRU/cmake-build-debug/CMakeFiles/OPRU.dir
+C:/Users/acedl/CLionProjects/OPRU/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/acedl/CLionProjects/OPRU/cmake-build-debug/CMakeFiles/rebuild_cache.dir
